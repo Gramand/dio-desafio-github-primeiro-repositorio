@@ -1,3 +1,15 @@
+git config --global user.name ""= tu anota o seu nome;
+git config --global user.email ""= tu anota o seu email;
+
+ctrl + L = limpa a tela;
+
+ls = lista os arquivos da pasta selecionada;
+mkdir = cria nova pasta;
 git status - mostra o status dos arquivos;
-git init - inicializa o git no lugar desejado;
-e etc.
+git init - inicializa o git no lugar desejado (vai criar a pasta .git caso não exista);
+git commit -m ""= tu vai fazer o commit;
+git clone = vai clonar o repositório selecionado lá do github no lugar desejado/selecionado;
+git push = vai mandar os seus arquivos pro servidor remoto (github);
+git pull = receber atualizações do repositório remoto (por exemplo, se alguem modificou ele antes de ti, tu tem que fazer isso pra não dar conflito na hora de tu fazer push, ai tu abre e modifica como quer, e ai dá merge, e ai faz push);
+
+por enquanto é isso.
